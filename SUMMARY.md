@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Chirpy Starter](README.md)
+* [👾 Whoami](README.md)
 * [\_tabs](_tabs/README.md)
   * [about](_tabs/about.md)
   * [archives](_tabs/archives.md)
