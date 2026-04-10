@@ -1,10 +1,27 @@
 ---
-description: If you're reading this, you already know what you're after.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # 👾 $ Whoami
 
 ### &#x20;Ahmed Elsayed (ZeR01) | Pentester | BugHunter | CTF | Top HTB (Egypt)
+
+> If you're reading this, you already know what you're after.
 
 ## $Whoami
 
